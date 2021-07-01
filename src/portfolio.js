@@ -195,6 +195,22 @@ const bigProjects = {
       ]
     },
     {
+      image: require("./assets/images/physics.png"),
+      projectName: "Physics App",
+      projectDesc: "The App contains curated Notes, Video Lectures, Worksheets and Self-Assessment tests for CBSE, IIT-JEE and other major exams. Built in collaboration with Mrs. Rakhi Gangwal, PGT Physics, KV3 ",
+      footerLink: [
+        {
+          name: "APK Link",
+          url: "https://drive.google.com/file/d/1q69hwGoA5jRyUOtwh_BxaHEO4cLxYzSo/view?usp=sharing"
+        },
+        {
+          name: "GitHub",
+          url: "https://github.com/Oshanik22/Physics-App"
+        }
+      ]
+    },
+
+    {
       image: require("./assets/images/facebookLogo.png"),
       projectName: "Social Media App",
       projectDesc: "A social media app, inspired by Facebook",
@@ -329,7 +345,7 @@ const blogSection = {
         "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
     },
     {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
+      url: "https://medium.com/",
       title: "Why REACT is The Best?",
       description:
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
